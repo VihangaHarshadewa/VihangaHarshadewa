@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vihanga Harshadewa 👋
 
-<!--
-**VihangaHarshadewa/VihangaHarshadewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🐍 Python Developer
+- 🌐 Flask Web Apps
+- 🤖 AI & Machine Learning
+- ☕ Java Developer
+- 🌍 Based in Sri Lanka
+- 💼 Open to Freelance Work
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| TShark Web UI | Network analyzer with Flask | [View](your-link) |
+
