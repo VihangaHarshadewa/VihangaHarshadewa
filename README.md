@@ -17,5 +17,5 @@
 ## 🚀 My Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| TShark Web UI | Network analyzer with Flask | [View](TShark-Network-Analyzer) |
+| TShark Web UI | Network analyzer with Flask | [View]([TShark-Network-Analyzer](https://github.com/VihangaHarshadewa/TShark-Network-Analyzer)) |
 
