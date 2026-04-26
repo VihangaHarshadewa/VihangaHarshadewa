@@ -1,4 +1,4 @@
-# Hi, I'm Vihanga Harshadewa 👋
+# Hi, I'm Vihanga Harshadewa 
 
 ## About Me
 - 🐍 Python Developer
